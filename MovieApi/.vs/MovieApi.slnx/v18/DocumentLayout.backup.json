@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\MovieApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A38F5B-6876-4227-AFBC-CE7036B43570}|MovieApi\\MovieApi.csproj|c:\\users\\lenovo\\source\\repos\\movieapi\\movieapi\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A38F5B-6876-4227-AFBC-CE7036B43570}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A38F5B-6876-4227-AFBC-CE7036B43570}|MovieApi\\MovieApi.csproj|c:\\users\\lenovo\\source\\repos\\movieapi\\movieapi\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A38F5B-6876-4227-AFBC-CE7036B43570}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A38F5B-6876-4227-AFBC-CE7036B43570}|MovieApi\\MovieApi.csproj|c:\\users\\lenovo\\source\\repos\\movieapi\\movieapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A38F5B-6876-4227-AFBC-CE7036B43570}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A38F5B-6876-4227-AFBC-CE7036B43570}|MovieApi\\MovieApi.csproj|c:\\users\\lenovo\\source\\repos\\movieapi\\movieapi\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A38F5B-6876-4227-AFBC-CE7036B43570}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A38F5B-6876-4227-AFBC-CE7036B43570}|MovieApi\\MovieApi.csproj|c:\\users\\lenovo\\source\\repos\\movieapi\\movieapi\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A38F5B-6876-4227-AFBC-CE7036B43570}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A38F5B-6876-4227-AFBC-CE7036B43570}|MovieApi\\MovieApi.csproj|c:\\users\\lenovo\\source\\repos\\movieapi\\movieapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A38F5B-6876-4227-AFBC-CE7036B43570}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A38F5B-6876-4227-AFBC-CE7036B43570}|MovieApi\\MovieApi.csproj|c:\\users\\lenovo\\source\\repos\\movieapi\\movieapi\\data\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A38F5B-6876-4227-AFBC-CE7036B43570}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\data\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A38F5B-6876-4227-AFBC-CE7036B43570}|MovieApi\\MovieApi.csproj|c:\\users\\lenovo\\source\\repos\\movieapi\\movieapi\\migrations\\20261014082500_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A38F5B-6876-4227-AFBC-CE7036B43570}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\migrations\\20261014082500_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A38F5B-6876-4227-AFBC-CE7036B43570}|MovieApi\\MovieApi.csproj|c:\\users\\lenovo\\source\\repos\\movieapi\\movieapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9A38F5B-6876-4227-AFBC-CE7036B43570}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A38F5B-6876-4227-AFBC-CE7036B43570}|MovieApi\\MovieApi.csproj|c:\\users\\lenovo\\source\\repos\\movieapi\\movieapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A38F5B-6876-4227-AFBC-CE7036B43570}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A38F5B-6876-4227-AFBC-CE7036B43570}|MovieApi\\MovieApi.csproj|c:\\users\\lenovo\\source\\repos\\movieapi\\movieapi\\movieapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C9A38F5B-6876-4227-AFBC-CE7036B43570}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\movieapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MovieApi\\MovieApi\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "MovieApi\\Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MovieApi\\MovieApi\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "MovieApi\\Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAswGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T08:36:58.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MovieApi\\MovieApi\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieApi\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MovieApi\\MovieApi\\Models\\Movie.cs",
+              "RelativeToolTip": "MovieApi\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T08:12:35.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MovieApi\\MovieApi\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "MovieApi\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MovieApi\\MovieApi\\Models\\Genre.cs",
+              "RelativeToolTip": "MovieApi\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T08:13:13.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MovieApi\\MovieApi\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "MovieApi\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MovieApi\\MovieApi\\Models\\Review.cs",
+              "RelativeToolTip": "MovieApi\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T08:14:00.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MovieApi\\MovieApi\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "MovieApi\\Controllers\\GenresController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MovieApi\\MovieApi\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "MovieApi\\Controllers\\GenresController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAswGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T08:35:48.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MovieApi\\MovieApi\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MovieApi\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MovieApi\\MovieApi\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MovieApi\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAswMAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T08:30:42.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20261014082500_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MovieApi\\MovieApi\\Migrations\\20261014082500_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MovieApi\\Migrations\\20261014082500_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MovieApi\\MovieApi\\Migrations\\20261014082500_InitialCreate.cs",
+              "RelativeToolTip": "MovieApi\\Migrations\\20261014082500_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T08:25:01.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MovieApi\\MovieApi\\Data\\MovieContext.cs",
+              "RelativeDocumentMoniker": "MovieApi\\Data\\MovieContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MovieApi\\MovieApi\\Data\\MovieContext.cs",
+              "RelativeToolTip": "MovieApi\\Data\\MovieContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T08:21:01.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MovieApi\\MovieApi\\appsettings.json",
+              "RelativeDocumentMoniker": "MovieApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MovieApi\\MovieApi\\appsettings.json",
+              "RelativeToolTip": "MovieApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-14T08:23:46.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MovieApi\\MovieApi\\Program.cs",
+              "RelativeDocumentMoniker": "MovieApi\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MovieApi\\MovieApi\\Program.cs",
+              "RelativeToolTip": "MovieApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T08:04:28.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovieApi",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MovieApi\\MovieApi\\MovieApi.csproj",
+              "RelativeDocumentMoniker": "MovieApi\\MovieApi.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MovieApi\\MovieApi\\MovieApi.csproj",
+              "RelativeToolTip": "MovieApi\\MovieApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-14T08:05:53.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
